@@ -1,0 +1,10 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    background: #101010;
+}
+
+button {
+    background-color: white;
+    padding: 5px;
+    border-radius: 20px;
+}
